@@ -1,4 +1,4 @@
-const themes = require("prism-react-renderer/themes/github");
+const { themes } = require("prism-react-renderer");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -53,6 +53,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       image: "img/docusaurus-social-card.jpg",
+      prism: {
+        theme: themes.github,
+        darkTheme: themes.dracula,
+      },
       mermaid: {
         theme: { light: "base", dark: "dark" },
       },

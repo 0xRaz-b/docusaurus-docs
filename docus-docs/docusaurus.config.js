@@ -8,7 +8,7 @@ const config = {
 
   // URL settings
   url: "https://docusaurus-2-tap.netlify.app", // Updated to match your last export
-  baseUrl: "/docus-docs/", // Updated to match your last export
+  baseUrl: "/", // Updated to match your last export
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

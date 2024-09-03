@@ -128,4 +128,8 @@ const config = {
   },
 };
 
-export default config;
+export default {
+  url: "https://docusaurus-2-tap.netlify.app", // Url to your site with no trailing slash
+  baseUrl: "/docus-docs", // Base directory of your site relative to your repo
+  // ...
+};

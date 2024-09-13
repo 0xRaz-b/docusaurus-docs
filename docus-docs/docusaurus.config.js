@@ -61,7 +61,7 @@ const config = {
         theme: { light: "base", dark: "dark" },
       },
       navbar: {
-        title: "Tapioca Docs",
+        title: "",
         logo: {
           alt: "My Site Logo",
           src: "img/tapioca-logo.png",

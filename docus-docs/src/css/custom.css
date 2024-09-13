@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #E84FD2;
+  --ifm-color-primary: #e84fd2;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
   --ifm-color-primary-darkest: #205d3b;
@@ -18,8 +18,8 @@
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-[data-theme='dark'] {
-  --ifm-color-primary: #E84FD2;
+[data-theme="dark"] {
+  --ifm-color-primary: #e84fd2;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
   --ifm-color-primary-darkest: #1a8870;
@@ -27,11 +27,23 @@
   --ifm-color-primary-lighter: #32d8b4;
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  h1 {
+    font-family: "Arial", sans-serif; /* Font family (adjust as needed) */
+    font-size: 38px; /* Font size */
+    font-weight: 500; /* Medium weight */
+    color: #ffffff; /* Specific white color */
+  }
+  /* If you want to customize h2 titles as well */
+h2 {
+  font-size: 32px; /* Adjust size as needed */
+  font-weight: 700; /* Medium weight */
+  color: #ffffff; /* Same black color */
+}
 }
 
 /* Style for h1 titles (like "Singularity") */
 h1 {
-  font-family: 'Arial', sans-serif; /* Font family (adjust as needed) */
+  font-family: "Arial", sans-serif; /* Font family (adjust as needed) */
   font-size: 38px; /* Font size */
   font-weight: 500; /* Medium weight */
   color: #010101; /* Specific black color */

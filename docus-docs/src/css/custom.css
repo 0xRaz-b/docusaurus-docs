@@ -34,11 +34,11 @@
     color: #ffffff; /* Specific white color */
   }
   /* If you want to customize h2 titles as well */
-h2 {
-  font-size: 32px; /* Adjust size as needed */
-  font-weight: 700; /* Medium weight */
-  color: #ffffff; /* Same black color */
-}
+  h2 {
+    font-size: 32px; /* Adjust size as needed */
+    font-weight: 700; /* Medium weight */
+    color: #ffffff; /* Same black color */
+  }
 }
 
 /* Style for h1 titles (like "Singularity") */

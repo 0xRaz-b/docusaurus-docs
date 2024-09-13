@@ -16,6 +16,30 @@ Unlike most DeFi money markets where high-risk assets can introduce systemic ris
 
 In addition, isolating the risks of the different lending markets enables users to achieve leverage in one operation, without ever leaving the platform or needing to "loop" borrow & swap operations which are gas intensive and inefficient.
 
-:::info
-Max leverage is dictated by the market's LTV, using this formula: (1/(1-LTV)) \* 0.95
-:::
+> **INFO**
+>
+> Max leverage is dictated by the market's LTV, using this formula: (1/(1-LTV)) \* 0.95
+
+## 02 / Elastic Interest Rates
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc. Sed euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
+
+## 03 / Singularity vs BigBang
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc. Sed euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
+
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Nullam euismod, nisi vel consectetur interdum
+
+## 04 / Singularity Positions
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
+
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Nullam euismod, nisi vel consectetur interdum
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.

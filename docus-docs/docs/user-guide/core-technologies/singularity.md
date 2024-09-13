@@ -9,8 +9,10 @@ title: Singularity
 Singularity is an Omnichain isolated lending engine inspired by the Kashi Lending Engine created by BoringCrypto. Singularity allows users to borrow, leverage up, and lend from many disparate networks, achieving unparalleled capital efficiency through liquidity defragmentation and collateral rehypothecation.
 
 Singularity & BigBang share the same market engine, with BigBang acting as the module to mint USDO, and Singularity acting as another module to create an isolated money market for leveraging yield bearing collaterals such as sDAI & GLP with lent USDO.
+###
 
-## 01 / Isolated Markets
+
+## Isolated Markets
 
 Unlike most DeFi money markets where high-risk assets can introduce systemic risk to the entire protocol, each market within Singularity is entirely isolated, meaning the risk of an asset within one market has no effect over the risk of another market or the protocol itself.
 
@@ -19,22 +21,26 @@ In addition, isolating the risks of the different lending markets enables users 
 > **INFO**
 >
 > Max leverage is dictated by the market's LTV, using this formula: (1/(1-LTV)) \* 0.95
+###
 
-## 02 / Elastic Interest Rates
+## Elastic Interest Rates
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc. Sed euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
+###
 
-## 03 / Singularity vs BigBang
+
+## Singularity vs BigBang
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc. Sed euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
 
 - Lorem ipsum dolor sit amet
 - Consectetur adipiscing elit
 - Nullam euismod, nisi vel consectetur interdum
+###
 
-## 04 / Singularity Positions
+## Singularity Positions
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam euismod, nisi vel consectetur interdum, nisl nunc egestas nunc, vitae tincidunt nisl nunc euismod nunc.
 

@@ -68,17 +68,23 @@ const config = {
           style: {
             width: "150px",
             height: "auto",
-            transform: "translateY(-15px)",
+            transform: "translateY(-17px)",
           },
         },
         items: [
+          { to: "/docs/intro", label: "Intro", position: "left" },
+          { to: "/docs/category/user", label: "User", position: "left" },
+          { to: "/docs/category/legal", label: "Legal", position: "left" },
           {
-            type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            to: "/docs/category/governance",
+            label: "Governance",
             position: "left",
-            label: "Tutorial",
           },
-          { to: "/blog", label: "Blog", position: "left" },
+          {
+            to: "/docs/category/developers",
+            label: "Developers",
+            position: "left",
+          },
           {
             href: "https://github.com/0xRaz/Technical-Docs",
             label: "GitHub",

@@ -65,6 +65,11 @@ const config = {
         logo: {
           alt: "My Site Logo",
           src: "img/tapioca-logo.png",
+          style: {
+            width: "150px",
+            height: "auto",
+            transform: "translateY(-15px)",
+          },
         },
         items: [
           {
